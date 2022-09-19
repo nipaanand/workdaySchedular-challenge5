@@ -55,6 +55,6 @@ function plannerFunc(){
 
     });
 }
-timeblockColor();
-plannerFunc();
+timeblockColor(); // calling function for time-block colour
+plannerFunc();  //calling function to read the data from storage 
 
